@@ -1,52 +1,33 @@
 h1{
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     margin: auto;
-    background-color: blueviolet;
+    background-color:#eee;
+}
+button{
+   background-color: rgb(226, 43, 137);
+    margin: 70px;
+    position: relative;
+    left: 650px;
+    bottom: 1250px;
+    font-size: 20px;
     
 }
-.test{
-    background-color: aqua;
-    margin: 30px;
-    padding: 20px;
+p{
+    padding: 300px;
+    margin: 100px;
+    font-size: 25px;
     position: relative;
-    bottom: 20px;
+    bottom: 320px;
+
+
 }
-.two{
-    background-color: aqua;
+.one{
     position: relative;
-    bottom: 50px;
-    padding: 20px;
-    margin: 30px;
-    
+    bottom: 1000px;
 }
-.three{
-    background-color: aqua;
-    margin: 30px;
-    padding: 20px;
+div{
     position: relative;
-    bottom: 45px;
-}
-.four{
-    background-color: aqua;
-    position: relative;
-    bottom: 80px;
-    padding: 20px;
-    margin: 30px;
-    
-}
-.five{
-    background-color: aqua;
-    margin: 30px;
-    padding: 20px;
-    position: relative;
-    bottom: 80px;
-}
-.six{
-    background-color: aqua;
-    position: relative;
-    bottom: 120px;
-    padding: 20px;
-    margin: 30px;
-    
+    top: 90px;
+    left: 500px;
 }
