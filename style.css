@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    background-color: blueviolet;
+    
+}
+.test{
+    background-color: aqua;
+    margin: 30px;
+    padding: 20px;
+    position: relative;
+    bottom: 20px;
+}
+.two{
+    background-color: aqua;
+    position: relative;
+    bottom: 50px;
+    padding: 20px;
+    margin: 30px;
+    
+}
+.three{
+    background-color: aqua;
+    margin: 30px;
+    padding: 20px;
+    position: relative;
+    bottom: 45px;
+}
+.four{
+    background-color: aqua;
+    position: relative;
+    bottom: 80px;
+    padding: 20px;
+    margin: 30px;
+    
+}
+.five{
+    background-color: aqua;
+    margin: 30px;
+    padding: 20px;
+    position: relative;
+    bottom: 80px;
+}
+.six{
+    background-color: aqua;
+    position: relative;
+    bottom: 120px;
+    padding: 20px;
+    margin: 30px;
+    
+}
